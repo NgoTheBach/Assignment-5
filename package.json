@@ -1,0 +1,22 @@
+{
+  "name": "assignment-5",
+  "version": "1.0.0",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgoTheBach/Assignment-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgoTheBach/Assignment-5/issues"
+  },
+  "homepage": "https://github.com/NgoTheBach/Assignment-5#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
